@@ -15,10 +15,10 @@
 
         Default {
             bindings = <
-&kp TAB             &kp Q  &kp W                   &kp E            &kp R        &kp T               &kp Y                   &kp U            &kp I              &kp O                       &kp P     &kp MINUS
-&mt LCTRL CAPSLOCK  &kp A  &kp S                   &kp D            &kp F        &kp G               &kp H                   &kp J            &kp K              &kp L                       &kp SEMI  &kp EQUAL
-&kp LSHIFT          &kp Z  &kp X                   &kp C            &kp V        &kp B               &kp N                   &kp M            &kp COMMA          &kp DOT                     &kp FSLH  &kp BACKSLASH
-                           &mt LEFT_ALT C_AL_DOCS  &mt LGUI ESCAPE  &lt 1 SPACE  &mt LEFT_SHIFT DEL  &mt RIGHT_SHIFT RETURN  &lt 2 BACKSPACE  &mt RIGHT_GUI ESC  &mt RIGHT_ALT SINGLE_QUOTE
+&kp TAB             &kp Q  &kp W                     &kp E            &kp R        &kp T               &kp Y                   &kp U            &kp I              &kp O                       &kp P     &kp MINUS
+&mt LCTRL CAPSLOCK  &kp A  &kp S                     &kp D            &kp F        &kp G               &kp H                   &kp J            &kp K              &kp L                       &kp SEMI  &kp EQUAL
+&kp LSHIFT          &kp Z  &kp X                     &kp C            &kp V        &kp B               &kp N                   &kp M            &kp COMMA          &kp DOT                     &kp FSLH  &kp BACKSLASH
+                           &mt LEFT_ALT PRINTSCREEN  &mt LGUI ESCAPE  &lt 1 SPACE  &mt LEFT_SHIFT DEL  &mt RIGHT_SHIFT RETURN  &lt 2 BACKSPACE  &mt RIGHT_GUI ESC  &mt RIGHT_ALT SINGLE_QUOTE
             >;
         };
 
